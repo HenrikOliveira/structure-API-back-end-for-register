@@ -1,6 +1,6 @@
-![20240815_150427](https://github.com/user-attachments/assets/04545193-5d79-4d37-8557-901fd4eafd2b)
+![20240815_150427](https://github.com/user-attachments/assets/e03fc2fb-235b-435d-86c6-fc3701babe8b)
+![20240815_150540](https://github.com/user-attachments/assets/df63b6fa-2c72-417c-88a1-0909962057a2)
 
-![20240815_150540 (1)](https://github.com/user-attachments/assets/3dce57a4-18da-4ccc-a199-48b2a63b6dc0)
 
 
 
