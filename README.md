@@ -10,11 +10,11 @@ API com as seguintes tecnologias
 ---> Node.js, express, primsa, MongoDB, JavaScript, json,  <----
  
  
- API de usuarios
+ **API de usuarios --->
      - Criar um usuario 
      - Listar todos os usuarios
      - editar um usuario(s)
-     - Deletar 
+     - Deletar**
 
 ***IMPORTANTA PARA FUNCIONAR****
 
