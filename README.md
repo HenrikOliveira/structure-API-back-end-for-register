@@ -1,5 +1,7 @@
 ![20240815_150427](https://github.com/user-attachments/assets/04545193-5d79-4d37-8557-901fd4eafd2b)
-![20240815_150540](https://github.com/user-attachments/assets/400df919-294d-40e9-b463-9702deaa92ac)
+
+![20240815_150540 (1)](https://github.com/user-attachments/assets/3dce57a4-18da-4ccc-a199-48b2a63b6dc0)
+
 
 
 API com as seguintes tecnologias 
