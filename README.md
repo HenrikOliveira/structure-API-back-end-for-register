@@ -5,7 +5,7 @@
 
 
 
-API com as seguintes tecnologias 
+>API tecnologias  back end
 
  **BACK-END* ;)
 ---> Node.js, express, primsa, MongoDB, JavaScript, json,  <----
